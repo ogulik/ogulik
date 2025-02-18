@@ -1,10 +1,10 @@
 ### Hi there! 👋 Welcome to my GitHub!
 
-I'm **Alesia**, a data enthusiast 📊 with a background in **digital marketing** and a strong **mathematical** foundation. After years of analyzing campaigns and optimizing websites, I decided to **dive deep into data analytics**—because, let's be honest, numbers tell the best stories! 🧠✨
+I'm **Alesia**, a data enthusiast 📊 with a background in **digital marketing** and a strong **mathematical** foundation. After years of analysing campaigns and optimising websites, I decided to **dive deep into data analytics**—because, let's be honest, numbers tell the best stories! 🧠✨
 
 ---
 
-### 🚀 About Me
+### 👩🏻‍💻 About Me
 - 🔢 **Math nerd** at heart—probabilities, regressions, you name it!
 - 🖥️ **Data Explorer**: SQL, Python (`pandas`, `matplotlib`), Excel
 - 📊 **Visualisation Fanatic**: Power BI, Tableau
@@ -27,7 +27,3 @@ I'm **Alesia**, a data enthusiast 📊 with a background in **digital marketing*
 - 📈 Refining my **data storytelling** skills
 - 🔍 Deep-diving into **data analysis** with real-world datasets
 - 🏗️ Building my **GitHub portfolio**—stay tuned!
-
----
-
-⭐ If you love data as much as I do, let's geek out together! ⭐
