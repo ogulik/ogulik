@@ -1,19 +1,18 @@
-### Hi there! 👋 Welcome to my GitHub!
+### Welcome to my GitHub! 🤗
 
-I'm **Alesia**, a data enthusiast 📊 with a background in **digital marketing** and a strong **mathematical** foundation. After years of analysing campaigns and optimising websites, I decided to **dive deep into data analytics**—because, let's be honest, numbers tell the best stories! 🧠✨
+I'm **Alesia**, an aspiring data analyst with a background in digital marketing and a strong mathematical foundation. After years of analysing campaigns and optimising websites, I decided to dive deep into data analytics, because numbers tell the best stories! 
 
 ---
 
 ### 👩🏻‍💻 About Me
-- 🔢 **Math nerd** at heart—probabilities, regressions, you name it!
-- 🖥️ **Data Explorer**: SQL, Python (`pandas`, `matplotlib`), Excel
-- 📊 **Visualisation Fanatic**: Power BI, Tableau
-- 🎯 **Problem-Solver**: I love finding patterns in chaos
-- 🎨 **Creative Mind**: Art and storytelling are part of my analytical process!
+- **Data Explorer**: SQL, Python, Excel
+- **Visualisation Enthusiast**: Power BI, Tableau
+- **Problem-Solver**: I love finding patterns in chaos
+- **Creative Mind**: Art and storytelling are part of my analytical process!
 
 ---
 
-### 🔧 Tech & Tools I Use:
+### 🔧 Tools I Use:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,4 +25,4 @@ I'm **Alesia**, a data enthusiast 📊 with a background in **digital marketing*
 ### 📌 Current Focus:
 - 📈 Refining my **data storytelling** skills
 - 🔍 Deep-diving into **data analysis** with real-world datasets
-- 🏗️ Building my **GitHub portfolio**—stay tuned!
+- 🏗️ Building my **GitHub portfolio**
