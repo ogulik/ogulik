@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! 🤗
 
-I'm **Alesia**, an aspiring data analyst with a background in digital marketing and a strong mathematical foundation. After years of analysing campaigns and optimising websites, I decided to dive deep into data analytics, because numbers tell the best stories! 
+I'm **Alesia**, an aspiring data analyst from London with a background in digital marketing and a strong mathematical foundation. After years of analysing campaigns and optimising websites, I decided to dive deep into data analytics, because numbers tell the best stories! 
 
 ---
 
