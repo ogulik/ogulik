@@ -12,7 +12,7 @@ I'm **Alesia**, an aspiring data analyst from London with a background in digita
 
 ---
 
-### 🔧 Tools I Use:
+### 🛠️ My Tool Kit:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -20,9 +20,3 @@ I'm **Alesia**, an aspiring data analyst from London with a background in digita
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
-### 📌 Current Focus:
-- 📈 Refining my **data storytelling** skills
-- 🔍 Deep-diving into **data analysis** with real-world datasets
-- 🏗️ Building my **GitHub portfolio**
